@@ -1,0 +1,67 @@
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe.config
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\bin\Debug\インスタ寺川宿.pdb
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\bin\Debug\Interop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.AssemblyReference.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\Interop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.ResolveComReference.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.Form1.resources
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.Properties.Resources.resources
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.GenerateResource.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.CoreCompileInputs.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.exe
+C:\Users\mnbso\source\repos\インスタ寺川宿\インスタ寺川宿\obj\Debug\インスタ寺川宿.pdb
+D:\インスタ寺川宿 コピー\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe.config
+D:\インスタ寺川宿 コピー\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe
+D:\インスタ寺川宿 コピー\インスタ寺川宿\bin\Debug\インスタ寺川宿.pdb
+D:\インスタ寺川宿 コピー\インスタ寺川宿\bin\Debug\Interop.WMPLib.dll
+D:\インスタ寺川宿 コピー\インスタ寺川宿\bin\Debug\AxInterop.WMPLib.dll
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.AssemblyReference.cache
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\Interop.MediaPlayer.dll
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\Interop.WMPLib.dll
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\AxInterop.WMPLib.dll
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.ResolveComReference.cache
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.Form1.resources
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.Properties.Resources.resources
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.GenerateResource.cache
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.CoreCompileInputs.cache
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.exe
+D:\インスタ寺川宿 コピー\インスタ寺川宿\obj\Debug\インスタ寺川宿.pdb
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.AssemblyReference.cache
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\Interop.MediaPlayer.dll
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\Interop.WMPLib.dll
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\AxInterop.WMPLib.dll
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.ResolveComReference.cache
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.Form1.resources
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.Properties.Resources.resources
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.GenerateResource.cache
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.CoreCompileInputs.cache
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.exe
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.pdb
+E:\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe.config
+E:\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe
+E:\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\インスタ寺川宿.pdb
+E:\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\Interop.WMPLib.dll
+E:\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\AxInterop.WMPLib.dll
+E:\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\Interop.Shell32.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe.config
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\インスタ寺川宿.exe
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\インスタ寺川宿.pdb
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\Interop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.AssemblyReference.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.SuggestedBindingRedirects.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\Interop.Shell32.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\Interop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.ResolveComReference.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.Form1.resources
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.Properties.Resources.resources
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.GenerateResource.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.csproj.CoreCompileInputs.cache
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.exe
+C:\Users\mnbso\source\repos\インスタ寺川宿 現地用\インスタ寺川宿\obj\Debug\インスタ寺川宿.pdb
